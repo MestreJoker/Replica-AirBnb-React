@@ -1,0 +1,56 @@
+body{
+    overflow-x: hidden;
+}
+#botaoEntrar, #barraPesquisa{
+    border-color: var(--color-gray-300);
+    box-shadow: 
+        0 2px 8px rgba(0, 0, 0, 0.3),
+        inset 0 1px 1px rgba(255, 255, 255, 0.1);
+}
+#botaoEntrar:hover{
+     transform: scale(1.06);
+     cursor: pointer;
+}
+.menu a:hover{
+    transform: scale(1.07);
+}
+.iconeMenu:hover{
+    transform: scale(1.082);
+    cursor: pointer;
+}
+.figure:hover{
+    cursor:pointer;
+    transform: scale(1.02);
+    transition: all 0.1s ease-in-out;
+}
+.coracaoCard:hover{
+    transform: scale(1.2);
+}
+.linksFooter{
+    font-size: 8px;
+}
+.linksFooter a:hover{
+    text-decoration: underline;
+}
+@media(max-width: 672px) {
+    #headerSuperior{
+    margin-left: -90px;
+    width: 85vw;
+}
+}
+@media(max-width: 522px) {
+    .linksHeaderSuperior{
+        font-size: 0.7rem
+    }
+}
+@media(max-width: 425px) {
+    #botaoEntrar{
+        display: none;
+    }
+    #menuSanduiche{
+        display: flex
+    }
+    .linksHeaderSuperior{
+        display: none
+    }
+}
