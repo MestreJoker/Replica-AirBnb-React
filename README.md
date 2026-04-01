@@ -1,3 +1,9 @@
+# ⚠️ Disclaimer / Aviso Legal
+
+**English:** This project is for **educational and portfolio purposes only**. It is a visual and functional study of the Airbnb interface. It has **no intention of fraud, phishing, or commercial use**. All rights to the brand, logo, and original design belong to Airbnb, Inc.
+
+**Português:** Este projeto tem **apenas fins educativos e de portfólio**. Trata-se de um estudo visual e funcional da interface do Airbnb. **Não possui intenção de fraude, phishing ou uso comercial**. Todos os direitos sobre a marca, logotipo e design original pertencem ao Airbnb, Inc.
+<br>
 <img width="451" height="363" alt="image" src="https://github.com/user-attachments/assets/1b7284cc-e7a1-4bba-9919-b6ab4d490793" />
 <img width="451" height="363" alt="image" src="https://github.com/user-attachments/assets/35639dd3-5d2e-4aeb-8eda-5fe241c16a1c" />
 
