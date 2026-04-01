@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<img width="451" height="363" alt="image" src="https://github.com/user-attachments/assets/1b7284cc-e7a1-4bba-9919-b6ab4d490793" />
+<img width="451" height="380" alt="image" src="https://github.com/user-attachments/assets/35639dd3-5d2e-4aeb-8eda-5fe241c16a1c" />
 
-## Getting Started
+# 🏠 Airbnb Clone - Pixel Perfect
 
-First, run the development server:
+A high-fidelity replica of the Airbnb interface, featuring dynamic routing and real-time data fetching from an external API.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[English](#english) | [Português](#português)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<a name="english"></a>
+## 🇺🇸 English
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 📝 Description
+This project is a "Pixel Perfect" clone of the Airbnb platform. It's not just a static layout; it uses dynamic routing to display specific details for each property. When a user clicks on a listing from the main page, the application passes parameters via the URL to fetch and render the specific images, descriptions, and reviews for that room.
 
-## Learn More
+### 🚀 Technologies
+* **React** (Functional Components)
+* **Next.js** (App Router & Dynamic Routes)
+* **Tailwind CSS** (Responsive & Pixel Perfect Styling)
+* **External API** (Data source for listings, images, and ratings)
 
-To learn more about Next.js, take a look at the following resources:
+### ✨ Key Features
+* **Dynamic Routing:** A single details page template that renders different content based on URL parameters.
+* **API Integration:** Fetches real-time data for property names, high-resolution images, and guest reviews.
+* **Pixel Perfect UI:** Meticulously crafted to match the original Airbnb design, including spacing, typography, and iconography.
+* **Fully Responsive:** Optimized for mobile, tablet, and desktop views.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<a name="português"></a>
+## 🇧🇷 Português
 
-## Deploy on Vercel
+### 📝 Descrição
+Este projeto é uma réplica "Pixel Perfect" da interface do Airbnb. Mais do que um layout estático, a aplicação utiliza roteamento dinâmico para exibir detalhes específicos de cada acomodação. Ao clicar em um card na página principal, a aplicação envia parâmetros via URL para carregar e renderizar as imagens, descrições e avaliações específicas daquela propriedade através de uma API.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🚀 Tecnologias
+* **React** (Componentes Funcionais)
+* **Next.js** (App Router & Rotas Dinâmicas)
+* **Tailwind CSS** (Estilização Responsiva e Fiel ao Design)
+* **API Externa** (Fonte de dados para anúncios, imagens e notas)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### ✨ Principais Funcionalidades
+* **Roteamento Dinâmico:** Uso de uma única página de detalhes que se adapta conforme o ID/parâmetro passado pela URL.
+* **Integração com API:** Consumo de dados reais para nomes de propriedades, galerias de fotos e depoimentos de usuários.
+* **Interface Pixel Perfect:** Desenvolvimento focado na fidelidade visual ao site original (espaçamentos, fontes e ícones).
+* **Totalmente Responsivo:** Interface adaptável para dispositivos móveis, tablets e desktops.
+
+---
+
+### 👤 Author / Autor
+**Gabriel**
+* **GitHub:** [MestreJoker](https://github.com/MestreJoker)
+* **LinkedIn:** [Gabriel Gomes](https://www.linkedin.com/in/gabriel-ds-gomes/)
