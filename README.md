@@ -1,5 +1,5 @@
 <img width="451" height="363" alt="image" src="https://github.com/user-attachments/assets/1b7284cc-e7a1-4bba-9919-b6ab4d490793" />
-<img width="451" height="380" alt="image" src="https://github.com/user-attachments/assets/35639dd3-5d2e-4aeb-8eda-5fe241c16a1c" />
+<img width="451" height="363" alt="image" src="https://github.com/user-attachments/assets/35639dd3-5d2e-4aeb-8eda-5fe241c16a1c" />
 
 # 🏠 Airbnb Clone - Pixel Perfect
 
