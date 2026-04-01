@@ -1,7 +1,7 @@
 <img width="451" height="363" alt="image" src="https://github.com/user-attachments/assets/1b7284cc-e7a1-4bba-9919-b6ab4d490793" />
 <img width="451" height="363" alt="image" src="https://github.com/user-attachments/assets/35639dd3-5d2e-4aeb-8eda-5fe241c16a1c" />
 
-# 🏠 Airbnb Clone - Pixel Perfect
+# <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fYsTmR0-TXLa06mx13LRXBgbNyBgylU3cw&s"> Airbnb Clone - Pixel Perfect
 
 A high-fidelity replica of the Airbnb interface, featuring dynamic routing and real-time data fetching from an external API.
 
